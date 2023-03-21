@@ -1,6 +1,7 @@
 /*
  * Prueba GIT 
  */
+
 package tema3_ejercicio10;
 
 import java.util.Scanner;
@@ -29,3 +30,6 @@ public class Tema3_Ejercicio10 {
 	}
 
 }
+/*
+ * FIN
+ */
