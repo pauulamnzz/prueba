@@ -11,6 +11,9 @@ public class Tema3_Ejercicio10 {
 	public static void main(String[] args) {
 		double ne1, ne2, ne3, nmedia;
 		Scanner m = new Scanner(System.in);
+		/*
+		 * COMENTARIO MEDIO MODIFICACION COLAB
+		 */
 		try {
 			System.out.print("Escriba su nota de la primera evaluación: ");
 			ne1 = m.nextDouble();
